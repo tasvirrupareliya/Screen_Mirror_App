@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Screen Mirror</string>
+
+    <string name="buttonStart">START</string>
+    <string name="buttonStop">STOP</string>
+    <string name="ipInfoServerOff">Your IP address:</string>
+    <string name="ipInfoServerOn">Address for your colleagues:</string>
+    <string name="noIpFound">No IP address found. Is your wifi off?</string>
+    <string name="noInterface">No interface found</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="about_description">Screen Mirroring is a technique, which allows you to mirror your smartphone on the TV screen. \n\nYou can easily access all of your games, photos, videos and other applications on a big screen using this screen mirroring - miracast App.
+
+\n\nIf your eyes are drained from looking at your small cellular phone, you will get a great big screen experience by connecting your phone to TV, Chromecast, Firestick, Roku stick and Anycast via this miracast - Castto app!
+
+\n\nMirroring your mobile screen on your TV can be useful when you\'re showing off photos from a recent trip, playing a game or giving a demonstration. With this Screen Mirroring App, you\'ll be able to duplicate your Android phone\'s screen on TV.
+
+\n\nThis Screen Mirroring App allows you to easily connect your phone/tablet and your TV. It provides you a secure connection to protect your data, files and applications. \n\nThis miracast - Castto app is simple, easy to use and most importantly a free app!
+
+With this screencast App, you can stream to TV from phone without limitations. It helps you instantly stream movies, music and photos to your TV! This is one of the best miracast app for android users.
+
+\n\nful for streaming movies, videos, access photos and apps on the TV screen. You can easily connect your smartphone with your TV wirelessly. You can search for your favorite TV shows and series and easily stream them anytime on your TV screen.
+
+\n\nWatching videos on your phone or tablet is great, streaming them on your big TV screen? Better yet. This’s the best miracast app to view your phone on your TV. If you are searching for How to screencast Without Hdmi then this is the best app, you will find!</string>
+    <string name="serverPortSetting">Server Port</string>
+    <string name="Server_Settings">Server Settings</string>
+    <string name="videoQualitySetting">Video Quality</string>
+    <string name="videoSettings">Video Settings</string>
+    <string name="serverPortNumber">8080</string>
+    <string name="streamQuality">30</string>
+    <string name="streamQualityExp">0: bad, 100: best quality</string>
+    <string name="drawerHome">Home</string>
+    <string name="drawerSettings">Settings</string>
+    <string name="scalingSetting">Scaling</string>
+    <string name="scalingInfo">(between 0.5 and 1.5)</string>
+    <string name="connected_clients">Number of viewers:</string>
+    <string name="select_connection">Select the connection you want</string>
+    <string name="screen_cast">Screen Cast</string>
+    <string name="how_to_connect">How to Connect</string>
+    <string name="web_browser">Web Browser</string>
+
+    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+
+</resources>
